@@ -1,0 +1,15 @@
+C:\Users\45922978810\Desktop\Exercicios Extras 06042023\bin\Debug\net7.0\Exercicios Extras 06042023.exe
+C:\Users\45922978810\Desktop\Exercicios Extras 06042023\bin\Debug\net7.0\Exercicios Extras 06042023.deps.json
+C:\Users\45922978810\Desktop\Exercicios Extras 06042023\bin\Debug\net7.0\Exercicios Extras 06042023.runtimeconfig.json
+C:\Users\45922978810\Desktop\Exercicios Extras 06042023\bin\Debug\net7.0\Exercicios Extras 06042023.dll
+C:\Users\45922978810\Desktop\Exercicios Extras 06042023\bin\Debug\net7.0\Exercicios Extras 06042023.pdb
+C:\Users\45922978810\Desktop\Exercicios Extras 06042023\obj\Debug\net7.0\Exercicios Extras 06042023.csproj.AssemblyReference.cache
+C:\Users\45922978810\Desktop\Exercicios Extras 06042023\obj\Debug\net7.0\Exercicios Extras 06042023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45922978810\Desktop\Exercicios Extras 06042023\obj\Debug\net7.0\Exercicios Extras 06042023.AssemblyInfoInputs.cache
+C:\Users\45922978810\Desktop\Exercicios Extras 06042023\obj\Debug\net7.0\Exercicios Extras 06042023.AssemblyInfo.cs
+C:\Users\45922978810\Desktop\Exercicios Extras 06042023\obj\Debug\net7.0\Exercicios Extras 06042023.csproj.CoreCompileInputs.cache
+C:\Users\45922978810\Desktop\Exercicios Extras 06042023\obj\Debug\net7.0\Exercicios Extras 06042023.dll
+C:\Users\45922978810\Desktop\Exercicios Extras 06042023\obj\Debug\net7.0\refint\Exercicios Extras 06042023.dll
+C:\Users\45922978810\Desktop\Exercicios Extras 06042023\obj\Debug\net7.0\Exercicios Extras 06042023.pdb
+C:\Users\45922978810\Desktop\Exercicios Extras 06042023\obj\Debug\net7.0\Exercicios Extras 06042023.genruntimeconfig.cache
+C:\Users\45922978810\Desktop\Exercicios Extras 06042023\obj\Debug\net7.0\ref\Exercicios Extras 06042023.dll
