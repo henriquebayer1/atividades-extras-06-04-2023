@@ -498,9 +498,148 @@ Console.WriteLine($"O total de mulheres é de {mulheres}");
 
 // MÉDIA DE IDADE DOS HOMENS E MULHERES
 
-Double mediah = (idade1 + idade2 + idade3 + idade4 + idade5 + idade6 + idade7 + idade8 + idade9 + idade10) / 2;
+int resultadomedhomens = 0;
 
-Console.WriteLine($"A média de idade dos homens é de {mediah}");
+int armmedh = 0;
+
+if (sexo1 == 'm')
+{resultadomedhomens = armmedh + idade1;
+    
+}
+
+
+if (sexo2 == 'm')
+{resultadomedhomens = armmedh + idade2;
+    
+}
+
+
+if (sexo3 == 'm')
+{resultadomedhomens = armmedh + idade3;
+    
+}
+
+
+if (sexo4 == 'm')
+{resultadomedhomens = armmedh + idade4;
+    
+}
+
+
+if (sexo5 == 'm')
+{resultadomedhomens = armmedh + idade5;
+    
+}
+
+
+if (sexo6 == 'm')
+{resultadomedhomens = armmedh + idade6;
+    
+}
+
+
+if (sexo7 == 'm')
+{resultadomedhomens = armmedh + idade7;
+    
+}
+
+
+if (sexo8 == 'm')
+{resultadomedhomens = armmedh + idade8;
+    
+}
+
+
+if (sexo9 == 'm')
+{resultadomedhomens = armmedh + idade9;
+    
+}
+
+
+if (sexo10 == 'm')
+{resultadomedhomens = armmedh + idade10;
+    
+}
+
+
+
+
+
+Double resultadomedh = resultadomedhomens / homens;
+
+Console.WriteLine($"A média de idade dos homens é de: {resultadomedh}");
+
+
+int resultadomedfeminino = 0;
+
+int armmedf = 0;
+
+if (sexo1 == 'f')
+{resultadomedfeminino = armmedf + idade1;
+    
+}
+
+
+if (sexo2 == 'f')
+{resultadomedfeminino = armmedf + idade2;
+    
+}
+
+
+if (sexo3 == 'f')
+{resultadomedfeminino = armmedf + idade3;
+    
+}
+
+
+if (sexo4 == 'f')
+{resultadomedfeminino = armmedf + idade4;
+    
+}
+
+
+if (sexo5 == 'f')
+{resultadomedfeminino = armmedf + idade5;
+    
+}
+
+
+if (sexo6 == 'f')
+{resultadomedfeminino = armmedf + idade6;
+    
+}
+
+
+if (sexo7 == 'f')
+{resultadomedfeminino = armmedf + idade7;
+    
+}
+
+
+if (sexo8 == 'f')
+{resultadomedfeminino = armmedf + idade8;
+    
+}
+
+
+if (sexo9 == 'f')
+{resultadomedfeminino = armmedf + idade9;
+    
+}
+
+
+if (sexo10 == 'f')
+{resultadomedfeminino = armmedf + idade10;
+    
+}
+
+
+
+
+
+Double resultadomedf = resultadomedfeminino / mulheres;
+
+Console.WriteLine($"A média de idade das mulheres é de: {resultadomedf}");
 
 
 
